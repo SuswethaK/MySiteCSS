@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <title>Suswetha Kolluru</title>
-  <link rel="stylesheet" href="css/styles.css">
+  <link rel="stylesheet" href="styles.css">
   <link rel="icon" href="images/developer.png">
   <link rel="preconnect" href="https://fonts.gstatic.com">
   <link href="https://fonts.googleapis.com/css2?family=Dela+Gothic+One&family=Merriweather:wght@300&family=Montserrat:wght@100&family=Sacramento&display=swap" rel="stylesheet">
